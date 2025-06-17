@@ -30,5 +30,6 @@ A secure, full-featured registration and login system built with **Spring Boot**
 ---
 
 
+![project-diagram](https://github.com/user-attachments/assets/5bb11aaa-05cc-4762-ac82-0b5b17a18060)
 
 
